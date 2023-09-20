@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+ <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" width="100" height="100" />
+</p>
+
 ```diff
 @@ Cloud Engineer @@
 ! 👨‍💻 DevOps Engineer: https://clouddrove.com
